@@ -4,17 +4,17 @@
     "url": "https://redbot-gnome-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/redbot-gnome-phantomic12.cloud.okteto.net.ico",
     "slug": "main-redbot-instance",
-    "status": "up",
-    "uptime": "92.55%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "92.55%",
-    "uptimeMonth": "92.55%",
-    "uptimeYear": "92.55%",
-    "time": 243,
-    "timeDay": 243,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "status": "down",
+    "uptime": "92.88%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "92.88%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "92.88%",
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2023-07-08": 54
     }
@@ -36,7 +36,7 @@
     "timeMonth": 259,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-07-08": 730
+      "2023-07-08": 764
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-07-08": 730
+      "2023-07-08": 764
     }
   },
   {
