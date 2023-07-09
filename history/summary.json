@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redbot-gnome-phantomic12.cloud.okteto.net.ico",
     "slug": "main-redbot-instance",
     "status": "down",
-    "uptime": "31.36%",
+    "uptime": "31.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "31.36%",
-    "uptimeMonth": "31.36%",
-    "uptimeYear": "31.36%",
+    "uptimeWeek": "31.20%",
+    "uptimeMonth": "31.20%",
+    "uptimeYear": "31.20%",
     "time": 246,
     "timeDay": 263,
     "timeWeek": 246,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-07-09": 1039,
+      "2023-07-09": 1050,
       "2023-07-08": 514
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-07-09": 1039,
+      "2023-07-09": 1050,
       "2023-07-08": 1224
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://discord-musicbot-gnome-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot-gnome-phantomic12.cloud.okteto.net.ico",
     "slug": "main-musicbot-instance",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
-    "time": 294,
-    "timeDay": 313,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 283,
+    "timeDay": 296,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-07-09": 18
+      "2023-07-09": 30
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://discord-musicbot-on-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot-on-phantomic12.cloud.okteto.net.ico",
     "slug": "secondary-musicbot-instance",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 253,
-    "timeDay": 287,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 255,
+    "timeDay": 278,
+    "timeWeek": 255,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2023-07-09": 0
+      "2023-07-09": 12
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-07-09": 1039,
+      "2023-07-09": 1050,
       "2023-07-08": 1224
     }
   },
@@ -107,19 +107,19 @@
     "url": "https://code-server-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
-    "time": 435,
-    "timeDay": 490,
-    "timeWeek": 435,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 421,
+    "timeDay": 461,
+    "timeWeek": 421,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-07-09": 18
+      "2023-07-09": 30
     }
   },
   {
@@ -127,19 +127,19 @@
     "url": "https://egglord-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/egglord-phantomic12.cloud.okteto.net.ico",
     "slug": "egglord",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
-    "time": 219,
-    "timeDay": 230,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 209,
+    "timeDay": 216,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-07-09": 18
+      "2023-07-09": 30
     }
   }
 ]
