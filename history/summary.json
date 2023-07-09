@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redbot-gnome-phantomic12.cloud.okteto.net.ico",
     "slug": "main-redbot-instance",
     "status": "down",
-    "uptime": "54.97%",
-    "uptimeDay": "54.97%",
-    "uptimeWeek": "54.97%",
-    "uptimeMonth": "54.97%",
-    "uptimeYear": "54.97%",
+    "uptime": "39.04%",
+    "uptimeDay": "23.04%",
+    "uptimeWeek": "39.04%",
+    "uptimeMonth": "39.04%",
+    "uptimeYear": "39.04%",
     "time": 246,
-    "timeDay": 246,
+    "timeDay": 253,
     "timeWeek": 246,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-07-09": 67,
+      "2023-07-09": 594,
       "2023-07-08": 514
     }
   },
@@ -32,12 +32,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 254,
-    "timeDay": 254,
+    "timeDay": 249,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-07-09": 67,
+      "2023-07-09": 594,
       "2023-07-08": 1224
     }
   },
@@ -46,18 +46,20 @@
     "url": "https://discord-musicbot-gnome-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot-gnome-phantomic12.cloud.okteto.net.ico",
     "slug": "main-musicbot-instance",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 233,
+    "timeDay": 240,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {
+      "2023-07-09": 0
+    }
   },
   {
     "name": "Secondary musicbot instance",
@@ -71,7 +73,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 218,
+    "timeDay": 249,
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
@@ -89,12 +91,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 212,
-    "timeDay": 212,
+    "timeDay": 204,
     "timeWeek": 212,
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-07-09": 67,
+      "2023-07-09": 594,
       "2023-07-08": 1224
     }
   },
@@ -103,35 +105,39 @@
     "url": "https://code-server-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 213,
+    "timeDay": 211,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2023-07-09": 0
+    }
   },
   {
     "name": "egglord",
     "url": "https://egglord-phantomic12.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/egglord-phantomic12.cloud.okteto.net.ico",
     "slug": "egglord",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 175,
-    "timeDay": 175,
+    "timeDay": 176,
     "timeWeek": 175,
     "timeMonth": 175,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-09": 0
+    }
   }
 ]
