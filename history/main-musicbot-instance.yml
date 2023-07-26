@@ -1,7 +1,7 @@
 url: https://discord-musicbot-gnome-phantomic12.cloud.okteto.net/
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2023-07-25T23:11:15.191Z
+status: down
+code: 502
+responseTime: 311
+lastUpdated: 2023-07-26T05:10:00.569Z
 startTime: Sat Jul 08 2023 03:35:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
