@@ -1,7 +1,7 @@
 url: https://code-server-phantomic12.cloud.okteto.net/
-status: up
-code: 200
-responseTime: 181
-lastUpdated: 2023-09-14T23:13:20.923Z
+status: down
+code: 502
+responseTime: 260
+lastUpdated: 2023-09-15T12:35:36.051Z
 startTime: 2023-07-08T03:35:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
