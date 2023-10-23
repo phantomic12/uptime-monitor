@@ -5,18 +5,22 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: ptero panel
     url: https://panel.phantomic.live
-  - name: Secondary redbot instance
-    url: https://redbot-nick-phantomic12.cloud.okteto.net/
-  - name: Main musicbot instance
-    url: https://discord-musicbot-gnome-phantomic12.cloud.okteto.net/
-  - name: Secondary musicbot instance
-    url: https://discord-musicbot-on-phantomic12.cloud.okteto.net/
-  - name: Main lavalink instance
-    url: https://lavalink-phantomic12.cloud.okteto.net/
+  - name: replit index
+    url: https://onemanager-php.phantomic12.repl.co/
+  - name: vercel index
+    url: https://onemanager-1-six.vercel.app/
+  - name: proxy index
+    url: https://index.phantomic.live/
+  - name: ptero panel portainer
+    url: https://portainer.phantomic.live/
+  - name: digitalocean node portainer
+    url: https://portainer2.phantomic.live/
+  - name: oracle cloud node portainer
+    url: https://portainer3.phantomic.live/
+  - name: boringproxy
+    url: https://prx.phantomic.wip.la
   - name: code-server
     url: https://code-server-phantomic12.cloud.okteto.net/
-  - name: egglord
-    url: https://egglord-phantomic12.cloud.okteto.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
