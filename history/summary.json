@@ -4,19 +4,19 @@
     "url": "https://panel.phantomic.live",
     "icon": "https://icons.duckduckgo.com/ip3/panel.phantomic.live.ico",
     "slug": "ptero-panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1151,
-    "timeDay": 10933,
-    "timeWeek": 3295,
-    "timeMonth": 1258,
-    "timeYear": 1151,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1139,
+    "timeDay": 7495,
+    "timeWeek": 2998,
+    "timeMonth": 1240,
+    "timeYear": 1139,
     "dailyMinutesDown": {
-      "2023-11-01": 1
+      "2023-11-01": 10
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 1219,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2023-11-01": 574,
+      "2023-11-01": 583,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
