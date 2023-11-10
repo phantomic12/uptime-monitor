@@ -17,8 +17,6 @@ sites:
     url: https://portainer2.phantomic.live/
   - name: oracle cloud node portainer
     url: https://portainer3.phantomic.live/
-  - name: boringproxy
-    url: https://prx.phantomic.wip.la
   - name: code-server
     url: https://code-server-phantomic12.cloud.okteto.net/
 
