@@ -13,8 +13,6 @@ sites:
     url: https://index.phantomic.live/
   - name: ptero panel portainer
     url: https://portainer.phantomic.live/
-  - name: digitalocean node portainer
-    url: https://portainer2.phantomic.live/
   - name: oracle cloud node portainer
     url: https://portainer3.phantomic.live/
   - name: code-server
