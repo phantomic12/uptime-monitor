@@ -22,18 +22,20 @@
     "url": "https://onemanager-php.phantomic12.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/onemanager-php.phantomic12.repl.co.ico",
     "slug": "replit-index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 484,
-    "timeWeek": 402,
-    "timeMonth": 798,
-    "timeYear": 590,
-    "dailyMinutesDown": {}
+    "time": 583,
+    "timeDay": 313,
+    "timeWeek": 373,
+    "timeMonth": 777,
+    "timeYear": 583,
+    "dailyMinutesDown": {
+      "2023-12-20": 0
+    }
   },
   {
     "name": "vercel index",
