@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/onemanager-php.phantomic12.repl.co.ico",
     "slug": "replit-index",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.83%",
+    "uptimeDay": "87.71%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.83%",
     "time": 631,
     "timeDay": 271,
     "timeWeek": 380,
     "timeMonth": 926,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 177
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "https://index.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/index.phantomic.live.ico",
     "slug": "proxy-index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 199,
-    "timeWeek": 431,
-    "timeMonth": 344,
-    "timeYear": 372,
-    "dailyMinutesDown": {}
+    "time": 376,
+    "timeDay": 443,
+    "timeWeek": 463,
+    "timeMonth": 354,
+    "timeYear": 376,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "ptero panel portainer",
@@ -115,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "up",
-    "uptime": "73.50%",
+    "uptime": "73.52%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "73.50%",
+    "uptimeYear": "73.52%",
     "time": 360,
     "timeDay": 375,
     "timeWeek": 267,
