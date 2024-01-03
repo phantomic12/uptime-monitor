@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/onemanager-php.phantomic12.repl.co.ico",
     "slug": "replit-index",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "81.12%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.72%",
+    "uptimeDay": "79.66%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.72%",
     "time": 631,
     "timeDay": 271,
     "timeWeek": 380,
     "timeMonth": 926,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-01-03": 272
+      "2024-01-03": 293
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://index.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/index.phantomic.live.ico",
     "slug": "proxy-index",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 371,
-    "timeDay": 328,
-    "timeWeek": 405,
-    "timeMonth": 346,
+    "timeDay": 337,
+    "timeWeek": 403,
+    "timeMonth": 347,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-01-03": 36
+      "2024-01-03": 25
     }
   },
   {
