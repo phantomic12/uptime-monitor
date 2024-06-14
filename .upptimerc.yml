@@ -5,8 +5,8 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: ptero panel
     url: https://panel.phantomic.live
-  - name: replit index
-    url: https://onemanager-php.phantomic12.repl.co/
+  - name: glitch index
+    url: https://encouraging-incandescent-canary.glitch.me/
   - name: vercel index
     url: https://onemanager-1-six.vercel.app/
   - name: proxy index
