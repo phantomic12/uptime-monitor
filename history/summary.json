@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
-    "timeDay": 661,
-    "timeWeek": 618,
-    "timeMonth": 584,
+    "timeDay": 591,
+    "timeWeek": 620,
+    "timeMonth": 587,
     "timeYear": 683,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 182,
-    "timeWeek": 324,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "time": 315,
+    "timeDay": 240,
+    "timeWeek": 307,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1538,
-    "timeDay": 3535,
-    "timeWeek": 1646,
-    "timeMonth": 1527,
-    "timeYear": 1538,
+    "time": 1539,
+    "timeDay": 1745,
+    "timeWeek": 1688,
+    "timeMonth": 1577,
+    "timeYear": 1539,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.36%",
     "time": 538,
-    "timeDay": 2199,
-    "timeWeek": 1649,
-    "timeMonth": 1427,
+    "timeDay": 339,
+    "timeWeek": 1664,
+    "timeMonth": 1384,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2024-06-14": 28,
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 204,
-    "timeWeek": 258,
-    "timeMonth": 216,
-    "timeYear": 235,
+    "time": 236,
+    "timeDay": 354,
+    "timeWeek": 277,
+    "timeMonth": 217,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -125,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 558,
-    "timeWeek": 290,
-    "timeMonth": 219,
+    "timeDay": 249,
+    "timeWeek": 296,
+    "timeMonth": 222,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-02-05": 27
@@ -139,18 +139,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "39.15%",
+    "uptime": "39.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.83%",
+    "uptimeYear": "38.56%",
     "time": 355,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 355,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-07-09": 51,
+      "2024-07-10": 52,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -426,8 +427,7 @@
       "2023-07-15": 218,
       "2023-07-14": 61,
       "2023-07-13": 42,
-      "2023-07-12": 1091,
-      "2023-07-11": 83
+      "2023-07-12": 1091
     }
   }
 ]
