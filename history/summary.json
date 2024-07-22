@@ -22,19 +22,19 @@
     "url": "https://encouraging-incandescent-canary.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/encouraging-incandescent-canary.glitch.me.ico",
     "slug": "glitch-index",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 234,
-    "timeWeek": 619,
-    "timeMonth": 397,
-    "timeYear": 373,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 375,
+    "timeDay": 357,
+    "timeWeek": 601,
+    "timeMonth": 399,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-07-22": 0
+      "2024-07-22": 11
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2024-07-22": 1218,
+      "2024-07-22": 1229,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
