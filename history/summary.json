@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
-    "timeDay": 937,
-    "timeWeek": 655,
-    "timeMonth": 651,
+    "timeDay": 640,
+    "timeWeek": 662,
+    "timeMonth": 648,
     "timeYear": 683,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 844,
-    "timeWeek": 348,
-    "timeMonth": 405,
-    "timeYear": 372,
+    "time": 374,
+    "timeDay": 459,
+    "timeWeek": 362,
+    "timeMonth": 401,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1548,
-    "timeDay": 1790,
-    "timeWeek": 1831,
-    "timeMonth": 1687,
-    "timeYear": 1548,
+    "time": 1543,
+    "timeDay": 281,
+    "timeWeek": 1632,
+    "timeMonth": 1631,
+    "timeYear": 1543,
     "dailyMinutesDown": {}
   },
   {
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 556,
-    "timeDay": 2516,
-    "timeWeek": 1577,
+    "timeDay": 551,
+    "timeWeek": 1306,
     "timeMonth": 1412,
     "timeYear": 556,
     "dailyMinutesDown": {
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 320,
-    "timeWeek": 293,
+    "timeDay": 295,
+    "timeWeek": 310,
     "timeMonth": 269,
     "timeYear": 239,
     "dailyMinutesDown": {}
@@ -125,8 +125,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 328,
-    "timeWeek": 346,
+    "timeDay": 299,
+    "timeWeek": 345,
     "timeMonth": 327,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "37.32%",
+    "uptime": "37.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -150,7 +150,8 @@
     "timeMonth": 0,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-07-27": 51,
+      "2024-07-28": 56,
+      "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
@@ -426,8 +427,7 @@
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
-      "2023-07-30": 1440,
-      "2023-07-29": 1440
+      "2023-07-30": 1440
     }
   }
 ]
