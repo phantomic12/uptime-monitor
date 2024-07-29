@@ -100,18 +100,20 @@
     "url": "https://portainer.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.phantomic.live.ico",
     "slug": "ptero-panel-portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 268,
+    "timeDay": 270,
     "timeWeek": 270,
     "timeMonth": 271,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-29": 0
+    }
   },
   {
     "name": "oracle cloud node portainer",
@@ -139,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "37.12%",
+    "uptime": "37.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -150,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-07-29": 54,
+      "2024-07-29": 626,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
