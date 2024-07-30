@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
-    "timeDay": 474,
-    "timeWeek": 636,
-    "timeMonth": 645,
+    "timeDay": 663,
+    "timeWeek": 622,
+    "timeMonth": 646,
     "timeYear": 682,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 268,
-    "timeWeek": 366,
-    "timeMonth": 403,
-    "timeYear": 371,
+    "time": 373,
+    "timeDay": 462,
+    "timeWeek": 391,
+    "timeMonth": 407,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1538,
-    "timeDay": 113,
-    "timeWeek": 1372,
-    "timeMonth": 1576,
+    "timeDay": 1502,
+    "timeWeek": 1336,
+    "timeMonth": 1571,
     "timeYear": 1538,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
-    "time": 556,
-    "timeDay": 361,
-    "timeWeek": 1319,
-    "timeMonth": 1358,
-    "timeYear": 556,
+    "time": 558,
+    "timeDay": 2646,
+    "timeWeek": 1328,
+    "timeMonth": 1432,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2024-06-14": 28,
       "2024-02-07": 38,
@@ -102,18 +102,16 @@
     "slug": "ptero-panel-portainer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 277,
-    "timeWeek": 272,
-    "timeMonth": 272,
-    "timeYear": 239,
-    "dailyMinutesDown": {
-      "2024-07-29": 14
-    }
+    "time": 240,
+    "timeDay": 285,
+    "timeWeek": 237,
+    "timeMonth": 273,
+    "timeYear": 240,
+    "dailyMinutesDown": {}
   },
   {
     "name": "oracle cloud node portainer",
@@ -127,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 165,
-    "timeWeek": 342,
-    "timeMonth": 328,
+    "timeDay": 317,
+    "timeWeek": 318,
+    "timeMonth": 329,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2024-02-05": 27
@@ -141,7 +139,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "37.08%",
+    "uptime": "37.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -150,9 +148,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 356,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-07-29": 640,
+      "2024-07-30": 52,
+      "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -428,8 +427,7 @@
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   }
 ]
