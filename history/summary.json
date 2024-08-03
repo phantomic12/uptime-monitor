@@ -100,19 +100,19 @@
     "url": "https://portainer.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.phantomic.live.ico",
     "slug": "ptero-panel-portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 302,
-    "timeWeek": 273,
-    "timeMonth": 280,
+    "timeDay": 265,
+    "timeWeek": 265,
+    "timeMonth": 277,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-08-03": 0
+      "2024-08-03": 12
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-08-03": 794,
+      "2024-08-03": 806,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
