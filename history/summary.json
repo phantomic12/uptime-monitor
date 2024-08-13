@@ -22,18 +22,20 @@
     "url": "https://encouraging-incandescent-canary.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/encouraging-incandescent-canary.glitch.me.ico",
     "slug": "glitch-index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 149,
-    "timeWeek": 307,
-    "timeMonth": 418,
-    "timeYear": 365,
-    "dailyMinutesDown": {}
+    "time": 472,
+    "timeDay": 3624,
+    "timeWeek": 1156,
+    "timeMonth": 620,
+    "timeYear": 472,
+    "dailyMinutesDown": {
+      "2024-08-13": 0
+    }
   },
   {
     "name": "vercel index",
@@ -139,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "35.74%",
+    "uptime": "35.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -150,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-08-13": 54,
+      "2024-08-13": 1136,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
