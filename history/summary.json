@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 652,
-    "timeWeek": 626,
-    "timeMonth": 603,
+    "timeDay": 661,
+    "timeWeek": 655,
+    "timeMonth": 610,
     "timeYear": 676,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.75%",
-    "time": 846,
-    "timeDay": 619,
-    "timeWeek": 332,
-    "timeMonth": 1505,
-    "timeYear": 846,
+    "time": 841,
+    "timeDay": 399,
+    "timeWeek": 340,
+    "timeMonth": 1509,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2024-08-13": 272
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1531,
-    "timeDay": 2158,
-    "timeWeek": 1032,
-    "timeMonth": 1419,
-    "timeYear": 1531,
+    "time": 1532,
+    "timeDay": 1902,
+    "timeWeek": 1292,
+    "timeMonth": 1479,
+    "timeYear": 1532,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.46%",
-    "time": 591,
-    "timeDay": 2970,
-    "timeWeek": 1125,
-    "timeMonth": 1519,
-    "timeYear": 591,
+    "time": 593,
+    "timeDay": 2733,
+    "timeWeek": 1381,
+    "timeMonth": 1591,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2024-08-13": 15,
       "2024-06-14": 28,
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 465,
-    "timeWeek": 232,
-    "timeMonth": 222,
+    "timeDay": 293,
+    "timeWeek": 260,
+    "timeMonth": 223,
     "timeYear": 237,
     "dailyMinutesDown": {}
   },
@@ -128,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 329,
-    "timeWeek": 253,
-    "timeMonth": 247,
+    "timeDay": 321,
+    "timeWeek": 271,
+    "timeMonth": 252,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2024-02-05": 27
@@ -142,7 +142,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "34.45%",
+    "uptime": "34.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -153,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2024-08-28": 54,
+      "2024-08-29": 55,
+      "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -429,8 +430,7 @@
       "2023-09-15": 20,
       "2023-09-11": 15,
       "2023-09-08": 18,
-      "2023-09-04": 46,
-      "2023-08-30": 1111
+      "2023-09-04": 46
     }
   }
 ]
