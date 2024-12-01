@@ -64,15 +64,15 @@
     "url": "https://index.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/index.phantomic.live.ico",
     "slug": "proxy-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "94.21%",
+    "uptimeDay": "94.20%",
     "uptimeWeek": "91.08%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "99.51%",
     "time": 600,
-    "timeDay": 336,
-    "timeWeek": 292,
+    "timeDay": 340,
+    "timeWeek": 294,
     "timeMonth": 384,
     "timeYear": 607,
     "dailyMinutesDown": {
@@ -100,7 +100,7 @@
       "2024-01-31": 136,
       "2024-01-30": 116,
       "2024-01-29": 131,
-      "2024-01-28": 127
+      "2024-01-28": 98
     }
   },
   {
@@ -156,9 +156,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 419,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2024-12-01": 1282,
+      "2024-12-01": 1336,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
