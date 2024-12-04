@@ -71,7 +71,7 @@
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.46%",
     "time": 590,
-    "timeDay": 279,
+    "timeDay": 272,
     "timeWeek": 295,
     "timeMonth": 350,
     "timeYear": 598,
@@ -148,18 +148,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "27.90%",
+    "uptime": "27.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.27%",
+    "uptimeYear": "11.25%",
     "time": 387,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2024-12-03": 1414,
+      "2024-12-04": 65,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -499,8 +500,7 @@
       "2023-12-15": 26,
       "2023-12-13": 23,
       "2023-12-12": 48,
-      "2023-12-11": 16,
-      "2023-12-05": 20
+      "2023-12-11": 16
     }
   }
 ]
