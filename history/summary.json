@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 668,
     "timeDay": 575,
-    "timeWeek": 698,
-    "timeMonth": 672,
+    "timeWeek": 684,
+    "timeMonth": 681,
     "timeYear": 618,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "99.83%",
     "time": 569,
     "timeDay": 386,
-    "timeWeek": 903,
-    "timeMonth": 483,
+    "timeWeek": 976,
+    "timeMonth": 492,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2024-11-10": 55,
@@ -54,8 +54,8 @@
     "uptimeYear": "100.00%",
     "time": 1560,
     "timeDay": 1618,
-    "timeWeek": 1749,
-    "timeMonth": 1417,
+    "timeWeek": 1682,
+    "timeMonth": 1411,
     "timeYear": 1531,
     "dailyMinutesDown": {}
   },
@@ -64,16 +64,16 @@
     "url": "https://index.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/index.phantomic.live.ico",
     "slug": "proxy-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "85.48%",
+    "uptimeDay": "85.47%",
     "uptimeWeek": "90.41%",
-    "uptimeMonth": "92.91%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 562,
-    "timeDay": 289,
-    "timeWeek": 490,
-    "timeMonth": 360,
+    "timeDay": 286,
+    "timeWeek": 486,
+    "timeMonth": 356,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2024-12-16": 209,
@@ -98,7 +98,7 @@
       "2024-11-27": 245,
       "2024-11-26": 56,
       "2024-11-25": 174,
-      "2024-11-24": 64
+      "2024-11-24": 42
     }
   },
   {
@@ -114,8 +114,8 @@
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 271,
-    "timeWeek": 253,
-    "timeMonth": 217,
+    "timeWeek": 244,
+    "timeMonth": 222,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -132,7 +132,7 @@
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 233,
-    "timeWeek": 307,
+    "timeWeek": 304,
     "timeMonth": 259,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -156,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-12-16": 1398,
+      "2024-12-16": 1413,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
