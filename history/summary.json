@@ -4,19 +4,19 @@
     "url": "https://panel.phantomic.live",
     "icon": "https://icons.duckduckgo.com/ip3/panel.phantomic.live.ico",
     "slug": "ptero-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 629,
-    "timeWeek": 587,
-    "timeMonth": 678,
+    "timeDay": 682,
+    "timeWeek": 605,
+    "timeMonth": 680,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-12-27": 0
+      "2024-12-27": 10
     }
   },
   {
@@ -69,12 +69,12 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "93.82%",
-    "uptimeWeek": "92.73%",
+    "uptimeWeek": "92.82%",
     "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 530,
-    "timeDay": 261,
-    "timeWeek": 270,
+    "timeDay": 269,
+    "timeWeek": 272,
     "timeMonth": 336,
     "timeYear": 537,
     "dailyMinutesDown": {
@@ -109,19 +109,19 @@
     "url": "https://portainer.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.phantomic.live.ico",
     "slug": "ptero-panel-portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 211,
-    "timeWeek": 233,
-    "timeMonth": 232,
-    "timeYear": 235,
+    "timeDay": 206,
+    "timeWeek": 229,
+    "timeMonth": 231,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-12-27": 0
+      "2024-12-27": 10
     }
   },
   {
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-12-27": 290,
+      "2024-12-27": 300,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
