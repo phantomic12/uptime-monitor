@@ -22,9 +22,9 @@
     "url": "https://encouraging-incandescent-canary.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/encouraging-incandescent-canary.glitch.me.ico",
     "slug": "glitch-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -34,6 +34,7 @@
     "timeMonth": 401,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2025-01-18": 0,
       "2024-11-10": 55,
       "2024-10-31": 40,
       "2024-10-03": 27,
@@ -66,17 +67,17 @@
     "slug": "proxy-index",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "92.39%",
-    "uptimeMonth": "94.04%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "99.50%",
     "time": 483,
     "timeDay": 261,
     "timeWeek": 304,
-    "timeMonth": 293,
+    "timeMonth": 294,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2025-01-18": 58,
+      "2025-01-18": 47,
       "2025-01-17": 106,
       "2025-01-16": 98,
       "2025-01-15": 108,
@@ -96,7 +97,8 @@
       "2025-01-01": 205,
       "2024-12-31": 58,
       "2024-12-30": 228,
-      "2024-12-29": 76
+      "2024-12-29": 76,
+      "2024-12-28": 30
     }
   },
   {
@@ -154,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-18": 406,
+      "2025-01-18": 507,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
