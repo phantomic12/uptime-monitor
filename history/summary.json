@@ -6,9 +6,9 @@
     "slug": "ptero-panel",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 664,
     "timeDay": 376,
@@ -16,7 +16,7 @@
     "timeMonth": 601,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2025-01-31": 0
+      "2025-01-31": 23
     }
   },
   {
@@ -66,11 +66,11 @@
     "url": "https://index.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/index.phantomic.live.ico",
     "slug": "proxy-index",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "91.65%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "93.96%",
     "uptimeYear": "99.50%",
     "time": 470,
     "timeDay": 235,
@@ -78,7 +78,7 @@
     "timeMonth": 291,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-01-31": 67,
+      "2025-01-31": 90,
       "2025-01-30": 213,
       "2025-01-29": 188,
       "2025-01-28": 40,
@@ -110,9 +110,9 @@
     "slug": "ptero-panel-portainer",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 109,
@@ -120,7 +120,7 @@
     "timeMonth": 190,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-01-31": 0
+      "2025-01-31": 23
     }
   },
   {
@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-31": 840,
+      "2025-01-31": 863,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
