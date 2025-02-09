@@ -12,7 +12,7 @@
     "uptimeYear": "99.58%",
     "time": 662,
     "timeDay": 671,
-    "timeWeek": 580,
+    "timeWeek": 589,
     "timeMonth": 584,
     "timeYear": 618,
     "dailyMinutesDown": {
@@ -68,16 +68,16 @@
     "url": "https://index.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/index.phantomic.live.ico",
     "slug": "proxy-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "91.53%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "99.51%",
-    "time": 454,
-    "timeDay": 258,
-    "timeWeek": 238,
-    "timeMonth": 275,
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "99.52%",
+    "time": 453,
+    "timeDay": 249,
+    "timeWeek": 237,
+    "timeMonth": 276,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2025-02-09": 91,
@@ -101,7 +101,7 @@
       "2025-01-22": 147,
       "2025-01-21": 79,
       "2025-01-20": 143,
-      "2025-01-19": 59
+      "2025-01-19": 39
     }
   },
   {
@@ -150,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-server-phantomic12.cloud.okteto.net.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "24.66%",
+    "uptime": "24.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-09": 779,
+      "2025-02-09": 1214,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
