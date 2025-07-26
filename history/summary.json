@@ -41,7 +41,7 @@
     "timeMonth": 168,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-07-26": 1154,
+      "2025-07-26": 1169,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -207,19 +207,19 @@
     "url": "https://onemanager-1-six.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/onemanager-1-six.vercel.app.ico",
     "slug": "vercel-index",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1490,
-    "timeDay": 1830,
-    "timeWeek": 1702,
-    "timeMonth": 1564,
-    "timeYear": 1491,
+    "time": 1489,
+    "timeDay": 1761,
+    "timeWeek": 1701,
+    "timeMonth": 1568,
+    "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-07-26": 0
+      "2025-07-26": 15
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 254,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-07-26": 1154,
+      "2025-07-26": 1169,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -475,7 +475,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 1154,
+      "2025-07-26": 1169,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
