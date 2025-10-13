@@ -87,19 +87,19 @@
     "url": "https://portainer-rainbow.phantomic.live",
     "icon": "https://icons.duckduckgo.com/ip3/portainer-rainbow.phantomic.live.ico",
     "slug": "rainbow-main-portainer",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 372,
-    "timeDay": 287,
-    "timeWeek": 289,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 373,
+    "timeDay": 331,
+    "timeWeek": 303,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2025-10-13": 3
+      "2025-10-13": 12
     }
   },
   {
@@ -107,19 +107,19 @@
     "url": "https://media.phantomic.vip",
     "icon": "https://icons.duckduckgo.com/ip3/media.phantomic.vip.ico",
     "slug": "media-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 409,
-    "timeDay": 466,
-    "timeWeek": 396,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 415,
+    "timeDay": 519,
+    "timeWeek": 418,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-10-13": 2
+      "2025-10-13": 11
     }
   },
   {
@@ -127,19 +127,19 @@
     "url": "https://jellyseerr.phantomic.live",
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.phantomic.live.ico",
     "slug": "jellyseerr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 539,
-    "timeDay": 413,
-    "timeWeek": 399,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 582,
+    "timeDay": 850,
+    "timeWeek": 546,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-10-13": 2
+      "2025-10-13": 11
     }
   },
   {
@@ -166,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich-ti.phantomic.vip.ico",
     "slug": "immich-family",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 275,
     "timeDay": 329,
     "timeWeek": 260,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-10-13": 0
+      "2025-10-13": 11
     }
   },
   {
@@ -186,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/2fauth.phantomic.live.ico",
     "slug": "2fauth",
     "status": "down",
-    "uptime": "97.54%",
-    "uptimeDay": "38.70%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "97.54%",
+    "uptime": "97.51%",
+    "uptimeDay": "37.96%",
+    "uptimeWeek": "91.14%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "97.51%",
     "time": 395,
     "timeDay": 350,
     "timeWeek": 379,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-10-13": 883
+      "2025-10-13": 893
     }
   },
   {
@@ -278,7 +278,7 @@
     "uptime": "18.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.42%",
+    "uptimeMonth": "36.44%",
     "uptimeYear": "2.92%",
     "time": 0,
     "timeDay": 0,
