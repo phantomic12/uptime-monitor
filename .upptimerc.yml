@@ -21,8 +21,8 @@ sites:
     url: https://portainer.phantomic.live/
   - name: oracle cloud node portainer
     url: https://portainer3.phantomic.live/
-  - name: code-server
-    url: https://code-server-phantomic12.cloud.okteto.net/
+  - name: sunshroom-portainer
+    url: https://portainer-sunshroom.phantomic.live/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
