@@ -264,19 +264,19 @@
     "url": "https://portainer3.phantomic.live/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer3.phantomic.live.ico",
     "slug": "oracle-cloud-node-portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.78%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 250,
-    "timeDay": 212,
-    "timeWeek": 246,
-    "timeMonth": 221,
+    "timeDay": 223,
+    "timeWeek": 250,
+    "timeMonth": 223,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-11-18": 104
+      "2025-11-18": 112
     }
   },
   {
