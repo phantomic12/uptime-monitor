@@ -1,7 +1,7 @@
 url: https://portainer3.phantomic.live/
-status: up
-code: 200
-responseTime: 259
-lastUpdated: 2025-11-17T23:05:43.089Z
+status: down
+code: 500
+responseTime: 142
+lastUpdated: 2025-11-18T11:32:27.051Z
 startTime: 2023-10-23T01:31:32.853Z
 generator: Upptime <https://github.com/upptime/upptime>
