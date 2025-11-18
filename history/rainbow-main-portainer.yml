@@ -1,7 +1,7 @@
 url: https://portainer-rainbow.phantomic.live
-status: down
-code: 500
-responseTime: 1295
-lastUpdated: 2025-11-18T16:05:57.976Z
+status: up
+code: 200
+responseTime: 479
+lastUpdated: 2025-11-18T16:19:35.775Z
 startTime: 2025-09-18T22:56:10.038Z
 generator: Upptime <https://github.com/upptime/upptime>
