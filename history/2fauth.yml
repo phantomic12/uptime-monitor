@@ -1,7 +1,7 @@
 url: https://2fauth.phantomic.live
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2026-01-07T23:06:13.406Z
+status: down
+code: 502
+responseTime: 107
+lastUpdated: 2026-01-08T10:35:43.730Z
 startTime: 2025-09-18T22:56:15.211Z
 generator: Upptime <https://github.com/upptime/upptime>
