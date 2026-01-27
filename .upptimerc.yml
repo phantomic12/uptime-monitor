@@ -8,7 +8,7 @@ sites:
   - name: rainbow-main portainer
     url: https://portainer-rainbow.phantomic.live
   - name: media server
-    url: https://media.phantomic.vip
+    url: https://media-gelato.phantomic.vip
   - name: jellyseerr
     url: https://jellyseerr.phantomic.live
   - name: immich-main
