@@ -1,7 +1,7 @@
 url: https://media-gelato.phantomic.vip
-status: up
-code: 200
-responseTime: 550
-lastUpdated: 2026-06-09T23:31:13.592Z
+status: down
+code: 504
+responseTime: 30240
+lastUpdated: 2026-06-10T00:16:49.571Z
 startTime: 2025-09-18T22:56:10.933Z
 generator: Upptime <https://github.com/upptime/upptime>
