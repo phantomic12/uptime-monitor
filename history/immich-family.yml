@@ -1,7 +1,7 @@
 url: https://immich-ti.phantomic.vip
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2026-07-15T23:58:47.931Z
+status: down
+code: 504
+responseTime: 30112
+lastUpdated: 2026-07-16T09:01:10.955Z
 startTime: 2025-09-18T22:56:14.553Z
 generator: Upptime <https://github.com/upptime/upptime>
