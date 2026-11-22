@@ -1,7 +1,7 @@
 url: https://immich-87.phantomic.vip
-status: up
-code: 200
-responseTime: 189
-lastUpdated: 2026-11-22T02:51:24.592Z
+status: down
+code: 502
+responseTime: 160
+lastUpdated: 2026-11-22T21:47:08.724Z
 startTime: 2025-09-18T22:56:13.967Z
 generator: Upptime <https://github.com/upptime/upptime>
